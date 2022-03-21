@@ -1,0 +1,88 @@
+body {
+  padding-top: 70px;
+}
+.jumbotron {
+  margin-top: -20px;
+  text-align: center;
+  background-color: #ca8e20;
+}
+.pizza-image {
+  margin: 0 auto;
+}
+.social-list li {
+  margin: 20px 0;
+}
+
+.info-boxes {
+  margin-top: 15px;
+  background-color: #e7ebd6;
+  background-color: #f3e521;
+}
+
+.info-box {
+  background: rgb(255, 255, 255);
+  margin: 20px 10px;
+  padding: 30px;
+  box-shadow: 1px 1px 2px #e7e7e7;
+  border-radius: 4px;
+  min-height: 275px;
+}
+#home-carousel {
+}
+.social-links i{
+  font-size: 40px;
+  vertical-align: middle;
+}
+.food-thumbnail {
+  min-height: 400px;
+}
+form{
+  text-align: center;
+}
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+.visuallyhidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  width: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  position: absolute;
+}
+/* nothing to see here */
+body {
+  margin: 2em;
+  border: 0;
+}
+h2 {
+  text-align: left;
+}
+input[type="checkbox"] {
+  margin: 0 0 1.5em 0;
+}
+select {
+  margin: 0 0 0.5em 0.5em;
+}
+.textarea {
+  margin: 0 0 1em 0;
+}
+.container{
+  text-align: center;
+}
+/* Each sub-menu starts out hidden. */
+/* .initiallyHidden {
+	display:none;
+} */
+.menu {
+	margin-left:20px;
+}
+.info {
+  background-color: #e7f3fe;
+  border-left: 6px solid #2196F3;
+}
